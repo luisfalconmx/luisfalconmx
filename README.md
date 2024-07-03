@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Frontend Developer with 04 years of experience, B1 English level and 140 certifications related to software development.</p>
+<p align="left">I am Frontend Developer with 04 years of experience, A1 English level and 140 certifications related to software development.</p>
 
 ###
 
