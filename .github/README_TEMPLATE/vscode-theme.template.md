@@ -1,4 +1,4 @@
-<h1 align="center">${{env.REPOSITORY_NAME}}</h1>
+<h1 align="center">${{env.REPOSITORY_SLUG}}</h1>
 
 <p align="center">
   <b>${{env.REPOSITORY_DESCRIPTION}}</b><br />
