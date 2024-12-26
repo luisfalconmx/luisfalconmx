@@ -18,7 +18,7 @@
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```sh
-ext install luisfalconmx.${{env.REPOSITORY_NAME}}
+ext install ${{env.REPOSITORY_OWNER}}.${{env.REPOSITORY_SLUG}}
 ```
 
 ## Contributing
